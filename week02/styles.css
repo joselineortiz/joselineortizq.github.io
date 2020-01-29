@@ -1,9 +1,16 @@
 @charset "utf-8"
 /* CSS Document */
 
-  body:{
-font-family: "Georgia", serif; 
-    color: #000000;
-    line-height: 140%;
-    background-color: coral
+ body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
 }
