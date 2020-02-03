@@ -23,7 +23,11 @@ width: 150px;
 list-style-type:none;
   color: #7C1AOO;
 }
-li {
+nav ul {padding: 0px;
+margin: 0px;
+list-style-type: none;
+}
+nav li {
   margin: 10px; 
   border: 1px;
   border-style: solid; 
@@ -32,6 +36,11 @@ li {
 }
 a { 
 color: white; 
+background-color:#8C9273;
+padding: 3px; 
+right-padding: 60px; 
+text-decoration: none;
+}
 background-color:#8C9273;
 padding: 3px; 
 right-padding: 60px; 
