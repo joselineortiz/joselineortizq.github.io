@@ -17,3 +17,9 @@ h1 { font-size: 350%;
 #container {
   margin-bottom: 30px;
 }
+nav { 
+ float: left;
+width: 150px; 
+list-style-type:none;
+  color: #7C1AOO;
+}
