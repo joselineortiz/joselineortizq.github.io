@@ -42,3 +42,11 @@ padding: 3px;
 right-padding: 60px; 
 text-decoration: none;
 }
+
+
+#content { 
+border: 1px solid #CCCCCC;
+left-margin: 180px;
+padding: 10px; 
+}
+
